@@ -1,0 +1,11 @@
+role,required_skills,summary,learning_gaps
+Data Analyst,"python, sql, excel, statistics, data visualization, pandas","Turn raw data into reports, dashboards, and insights.","Power BI, Tableau, advanced statistics"
+Web Developer,"html, css, javascript, react, node.js, git, api",Build and maintain websites and web applications.,"Testing, accessibility, deployment"
+Machine Learning Engineer,"python, machine learning, pandas, numpy, scikit-learn, statistics, git",Develop and evaluate machine learning workflows.,"Model deployment, MLOps, deep learning"
+Cybersecurity Analyst,"networking, linux, security, python, wireshark, incident response","Monitor systems, investigate alerts, and support security operations.","SIEM tools, threat hunting, security frameworks"
+Python Developer,"python, sql, git, api, testing, problem solving","Build scripts, services, and automation with Python.","Packaging, asynchronous programming, deployment"
+Database Developer,"sql, database design, normalization, mysql, postgresql, backup, query optimization","Design, query, and maintain relational databases.","Performance tuning, data warehousing"
+UI UX Designer,"wireframing, prototyping, user research, figma, accessibility, communication",Design usable interfaces based on user needs.,"Usability testing, design systems"
+Cloud Support Associate,"linux, networking, cloud, troubleshooting, security, scripting",Help maintain cloud infrastructure and troubleshoot issues.,"Cloud platform certification, infrastructure as code"
+QA / Test Engineer,"testing, test cases, python, javascript, automation, git, bug tracking",Check software quality and help prevent defects.,"CI pipelines, performance testing"
+Business Analyst,"excel, sql, communication, requirements, data visualization, documentation",Connect business needs with data and technical teams.,"Process modeling, dashboard tools"
